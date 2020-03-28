@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535630538 source:d:\proyectos\ordenar_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+

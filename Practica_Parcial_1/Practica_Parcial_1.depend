@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536240570 source:d:\proyectos\practica_parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

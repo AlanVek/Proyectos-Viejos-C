@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537147080 source:f:\proyectos\torre_digitos\main.c
+	<stdio.h>
+	<stdlib.h>
+
