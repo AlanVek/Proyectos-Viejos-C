@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537440818 source:d:\proyectos\vekselman-ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+

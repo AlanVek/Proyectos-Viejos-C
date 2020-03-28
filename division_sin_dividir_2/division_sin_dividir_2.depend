@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537397970 source:f:\proyectos\division_sin_dividir_2\main.c
+	<stdio.h>
+	<stdlib.h>
+

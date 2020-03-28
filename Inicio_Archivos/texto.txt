@@ -1,0 +1,82 @@
+***   HTRI eLibrary 2.0.6   ***
+
+
+  About HTRI eLibrary 
+ ======================
+Heat Transfer Research, Inc. (HTRI) provides our members access to our proprietary heat transfer research and technology through HTRI eLibrary. The components of HTRI eLibrary include the software necessary to access the Member Center on the HTRI website (using Internet Explorer) and an application for viewing HTRI secured documents. HTRI premium content is available to member companies based on the level of membership.
+
+HTRI documents are typically accessed through the HTRI web site at http://www.htri.net. Optionally, a separate disc can be ordered from HTRI that includes the latest versions of the documents.
+
+
+  ChangeLog
+ ===========
+ - eLibrary 2.0.6
+	Updated to use the latest HASP devices and software-based licenses
+ - eLibrary 2.0.5
+	Includes a newer version of the HASP Device Driver (Sentinel LDK 6.23)
+ - eLibrary 2.0.4
+	Updated installation to resolve installation failure when a HASP driver is already installed
+	New icons
+	Includes a newer version of the HASP Device Driver (Sentinel SRM 5.95)
+
+
+  Requirements
+ ==============
+ - Microsoft Windows XP / 2003 / 2008 / Vista / 7 / 8
+ - 32 or 64-bit processor
+ - Internet Explorer 6.0 or better, with 128-bit cipher strength.
+Users of browsers other than Microsoft Internet Explorer, please note that HTRI eLibrary 2.0 is compatible only with Microsoft Internet Explorer. The setup program will search for Microsoft Internet Explorer and create a shortcut that automatically launches Internet Explorer to the home page of the HTRI secured website.
+This version of eLibrary does not require Adobe(R) Acrobat or Adobe Reader.
+
+
+  Quick Install Guide
+ =====================
+HTRI eLibrary must be installed on any computer used to access the HTRI Member Center website and/or view secured HTRI files (HDOC files). 
+Note: Installing eLibrary 2.0 will uninstall previous versions of eLibrary. Installation requires administrator privileges.
+   1. From the eLibrary installation CD, double-click the setup.exe file.
+   2. Follow the on-screen prompts. As part of the installation process, you must enter your company’s Product Code, sent in an e-mail message to the TAC representative or AMS Contact person for your company.
+   3. Insert your TimeHASP into an open USB port. If you use a NETHASP, skip this step.
+   4. Launch eLibrary by selecting Start / Programs / HTRI / eLibrary / eLibrary 2.0.6.
+
+
+  Network (Red NetHASP) Device Users
+ ====================================
+The HASP License Server must use the new HASP SRM run-time to recognize the HASP devices. For computers with the red NetHASP device, use the setup program "HASPUserSetup.exe" in the "HASP" folder of the installation CD to install or update the License Manager and Device Driver.
+
+It is recommended that the HASP License Manager on the client computer be configured with the License Manager Server's IP address or hostname. This helps to eliminate network communication delays resulting from a broadcast search for the remote license server. The HASP License Manager configuration is required if the client computer and key server are on different subnets. Please follow the steps below to configure the HASP License Manager on the client computer:
+   1. From the client, open the Sentinel HASP Admin Control Center Configuration page:  http://localhost:1947/_int_/config.html
+   2. Select the "Access To Remote License Managers" tab and add the License Server's IP address or fully qualified hostname in the "Specify Search Parameters" section. Multiple addresses can be entered, one on each line.
+   3. Click "Submit" and wait up to 2 minutes for the changes to take effect.
+
+If you still cannot access eLibrary files, the program may need a NETHASP.INI file to resolve the location of the computer on which the NetHASP device is connected. The contents of the file are identical to the file that allows XchangerSuite 6 and earlier to operate. Check that NETHASP.INI is located in one of the directories listed below:
+   a) Windows system directory (by default, C:\Windows\System32 or C:\Windows\SYSWOW64 on 64-bit Vista/ Windows 7)
+   b) Operating system directory (by default, C:\Windows or C:\WINNT)
+   c) Directory in the %PATH% system environment variable.
+A sample NETHASP.INI file is located on the installation CD, in the "HASP" folder. Modify the line "NH_SERVER_ADDR=" to add the name or IP address of the HASP License Server, and save it to the client in one of the directories specified above. 
+
+
+  ActiveX Controls
+ ==================
+By default, Internet Explorer 7 and newer requires confirmation to allow ActiveX controls to run. When Internet Explorer blocks an ActiveX control, an "Information Bar" appears at the top of the webpage. Since the HTRI Website uses ActiveX, click on the information bar (if it appears) and allow the ActiveX control to run. Alternatively you have the option of adding http://www.htri.net and https://www.htri.net to the list of Trusted Sites in Internet Explorer.
+   1. In Internet Explorer, Select 'Internet Options' from the 'Tools' menu.
+   2. Select the 'Security' tab.
+   3. Select the 'Trusted Sites' icon.
+   4. Click the ‘Sites...’ button.
+   5. Type https://www.htri.net in field labeled "Add this Web site to the zone."
+   6. Click the Add button.
+   7. Select the Default Level button to set the security settings to Low or select the Custom Level button to enable the items listed below.
+      Run ActiveX controls and plug-ins = Enable
+      Script ActiveX controls marked safe for scripting = Enable
+      File download = Enable
+      Active scripting = Enable
+      User Authentication | Logon = Automatic login with current username and password
+
+
+
+  Technical Support
+ ===================
+If you experience difficulty with HTRI eLibrary, please contact Technical Support via e-mail at Support@HTRI.net or by phone at +1.979.690.5055 (Worldwide) or +44 (1483) 685103 (EMEA).
+
+
+====
+© Heat Transfer Research, Inc. All rights reserved.

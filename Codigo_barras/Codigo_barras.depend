@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537148478 source:f:\proyectos\codigo_barras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

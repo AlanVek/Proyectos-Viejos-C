@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537398896 source:f:\proyectos\suma_sobre_factoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
