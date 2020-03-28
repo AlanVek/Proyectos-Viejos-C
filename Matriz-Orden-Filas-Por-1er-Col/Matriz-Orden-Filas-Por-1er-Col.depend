@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537932276 source:f:\proyectos\matriz-orden-filas-por-1er-col\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

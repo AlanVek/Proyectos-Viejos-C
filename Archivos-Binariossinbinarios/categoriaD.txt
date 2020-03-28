@@ -1,0 +1,16 @@
+0003 Barral Tomás                                      D  11459.400391
+0012 Oliva Martín                                      D  13299.250000
+0019 Bernat Alex                                       D  12169.480469
+0020 Castells Laura                                    D  14972.650391
+0025 Abascal Julio                                     D  3329.389893
+0026 Juárez Rafael                                     D  4772.779785
+0029 Serra Ángela                                      D  9452.230469
+0052 Alba Gloria                                       D  12485.730469
+0055 Andrés Samuel                                     D  8038.459961
+0072 Ferrando Eliana                                   D  12528.769531
+0073 Martín Patricia                                   D  9562.469727
+0075 Peláez Nicolás                                    D  13591.959961
+0077 Oliva Pablo                                       D  3325.760010
+0081 Cabezas Miranda                                   D  7182.040039
+0087 Bonilla Alonzo                                    D  11247.190430
+0089 Lamas Alexia                                      D  7022.149902

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538179308 source:f:\proyectos\matriz_diag_triang_inf-sup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

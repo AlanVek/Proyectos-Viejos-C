@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538769988 source:f:\proyectos\archivos-nomina_alfab\main.c
+	<stdio.h>
+	<stdlib.h>
+

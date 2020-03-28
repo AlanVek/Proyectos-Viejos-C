@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538650240 source:d:\proyectos\archivos-escribir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
