@@ -1,0 +1,8 @@
+printf ("%s",n);
+    printf (" ");
+    printf ("%s",p)
+    
+    
+    printf ("%s",n);
+    printf (" ");
+    printf ("%s",p)
