@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539254270 source:d:\proyectos\archivos-cambiar-sueldo-cat-b\main.c
+	<stdio.h>
+	<stdlib.h>
+
