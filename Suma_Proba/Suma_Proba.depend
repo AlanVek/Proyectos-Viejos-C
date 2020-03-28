@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561524206 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\suma_proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1561524206 source:c:\users\alanv\onedrive\documentos\itba\programación - c\proyectos\suma_proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

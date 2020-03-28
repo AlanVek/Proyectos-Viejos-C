@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1555450788 source:f:\proyectos\pali\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555983463 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\pali\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cadenas.h"
+
+1555983448 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\pali\cadenas.c
+	<stdio.h>
+	"Cadenas.h"
+
+1555983367 c:\users\alanv\onedrive\documentos\programación - c\proyectos\pali\cadenas.h
+

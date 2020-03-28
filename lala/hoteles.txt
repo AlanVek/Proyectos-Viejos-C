@@ -1,0 +1,40 @@
+2010,Barcelona         ,100
+2010,Buenos Aires      ,76
+2010,Calafate          ,117
+2010,Santiago de Chile ,146
+2010,Paris             ,145
+2011,Barcelona         ,149
+2011,Buenos Aires      ,86
+2011,Calafate          ,78
+2011,Santiago de Chile ,141
+2011,Paris             ,150
+2012,Barcelona         ,102
+2012,Buenos Aires      ,143
+2012,Calafate          ,128
+2012,Santiago de Chile ,95
+2012,Paris             ,91
+2013,Barcelona         ,89
+2013,Buenos Aires      ,128
+2013,Calafate          ,130
+2013,Santiago de Chile ,113
+2013,Paris             ,110
+2014,Barcelona         ,133
+2014,Buenos Aires      ,146
+2014,Calafate          ,93
+2014,Santiago de Chile ,143
+2014,Paris             ,82
+2015,Barcelona         ,130
+2015,Buenos Aires      ,114
+2015,Calafate          ,88
+2015,Santiago de Chile ,111
+2015,Paris             ,92
+2016,Barcelona         ,107
+2016,Buenos Aires      ,88
+2016,Calafate          ,79
+2016,Santiago de Chile ,132
+2016,Paris             ,84
+2017,Barcelona         ,84
+2017,Buenos Aires      ,128
+2017,Calafate          ,125
+2017,Santiago de Chile ,83
+2017,Paris             ,106

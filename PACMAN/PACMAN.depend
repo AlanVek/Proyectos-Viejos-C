@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1535597276 source:f:\proyectos\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+
+1555605702 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\pacman\main.c
+	"pacman_funciones.h"
+
+1555552284 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\pacman\pacman_funciones.c
+	"pacman_funciones.h"
+
+1555552194 c:\users\alanv\onedrive\documentos\programación - c\proyectos\pacman\pacman_funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+	<allegro/midi.h>
+

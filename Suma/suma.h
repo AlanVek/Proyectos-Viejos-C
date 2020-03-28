@@ -1,0 +1,1 @@
+float suma (float vector[], int cantidad);

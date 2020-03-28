@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1535485986 source:f:\proyectos\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+
+1555551962 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+
+1555551792 c:\users\alanv\onedrive\documentos\programación - c\proyectos\hangman\ahorcado.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+
+1555551672 source:c:\users\alanv\onedrive\documentos\programación - c\proyectos\hangman\ahorcado.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<string.h>
+	<allegro/draw.h>
+	"ahorcado.h"
+
